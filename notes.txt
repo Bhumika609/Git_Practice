@@ -1,1 +1,3 @@
-I am trying to learn Git&Github
+Day 1:
+Learning Git basics.
+Understood init, add, commit.
